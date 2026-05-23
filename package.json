@@ -1,0 +1,11 @@
+{
+  "name": "solana-blink-action-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@solana/actions": "^1.6.4",
+    "@solana/web3.js": "^1.91.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
